@@ -1,0 +1,3 @@
+ID: ID0002 		FullName: Засеев Давид Игоревич                 		Vocation: Developer
+ID: ID0003 		FullName: Чехов Иван Петрович                   		Vocation: Electrician
+ID: ID0004 		FullName: Паксин Алесей Иванович                		Vocation: Developer

@@ -1,0 +1,15 @@
+D:\Курсовой Проект ООП\kursovaya\bin\Debug\net6.0\kursovaya.exe
+D:\Курсовой Проект ООП\kursovaya\bin\Debug\net6.0\kursovaya.deps.json
+D:\Курсовой Проект ООП\kursovaya\bin\Debug\net6.0\kursovaya.runtimeconfig.json
+D:\Курсовой Проект ООП\kursovaya\bin\Debug\net6.0\kursovaya.dll
+D:\Курсовой Проект ООП\kursovaya\bin\Debug\net6.0\kursovaya.pdb
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.csproj.AssemblyReference.cache
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.AssemblyInfoInputs.cache
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.AssemblyInfo.cs
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.csproj.CoreCompileInputs.cache
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.dll
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\refint\kursovaya.dll
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.pdb
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\kursovaya.genruntimeconfig.cache
+D:\Курсовой Проект ООП\kursovaya\obj\Debug\net6.0\ref\kursovaya.dll

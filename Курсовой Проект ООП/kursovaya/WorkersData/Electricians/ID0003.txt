@@ -1,0 +1,14 @@
+ID:		ID0003
+Full name:		Чехов Иван Петрович
+Date of birth:		13.09.1980 0:00:00
+
+Registration:		г. Челябинск
+Passport serial:		3456
+Passport number:		736475
+
+Access level:		3
+Worker experience:		23
+Worker salary:		80000
+Charge:		3
+Specialization:		Сервеное оборудование
+Tool_kit:		Ключкарта, паяльник, 

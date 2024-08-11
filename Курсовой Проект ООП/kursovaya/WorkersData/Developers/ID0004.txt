@@ -1,0 +1,14 @@
+ID:		ID0004
+Full name:		Паксин Алесей Иванович
+Date of birth:		01.07.2003 0:00:00
+
+Registration:		г Сочи
+Passport serial:		3645
+Passport number:		465768
+
+Access level:		1
+Worker experience:		5
+Worker salary:		50000
+Coding level:		Junior
+Working type:		Offline
+Skills:		OOP, 
